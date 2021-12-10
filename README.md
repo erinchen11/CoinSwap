@@ -3,7 +3,7 @@
 ## DeFi Project Practice
 
 ### Goal
-使用者可透過頁面使用Ether與ERC20 Token 按照匯率進行轉換
+Users can exchange ETH and ERC20 token instantly on metamask
 
 ### Role
 
